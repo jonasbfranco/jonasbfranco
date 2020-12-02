@@ -63,8 +63,6 @@
 
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
-
-
 <br />
 <br />
 
@@ -97,13 +95,6 @@
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 <br>
 
@@ -111,9 +102,13 @@
 
 ---
 
+<br>
+
 <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&theme=gotham" />
 
 ---
+
+<br>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -128,16 +123,12 @@
 
 </details>
 
-
-
 <details>
   <summary>:zap: GitHub Most Userd Languages</summary>
 
   <img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
 </details>
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -147,9 +138,6 @@
   <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&theme=gotham" />
 
 </details>
-
-
-
 
 [website]: https://jonasbfranco.github.io/
 [course]: http://vsCodeHero.com
