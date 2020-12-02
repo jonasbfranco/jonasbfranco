@@ -118,7 +118,6 @@ Recent GitHub Activity
 <br>
 <img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
----
 
 [website]: https://jonasbfranco.github.io/
 [course]: http://vsCodeHero.com
