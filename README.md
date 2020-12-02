@@ -115,7 +115,7 @@
 
   <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&theme=gotham" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 </details>
