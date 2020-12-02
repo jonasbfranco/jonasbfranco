@@ -110,6 +110,9 @@
 
   <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&theme=gotham" />
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 </details>
 
 [website]: https://jonasbfranco.github.io/
