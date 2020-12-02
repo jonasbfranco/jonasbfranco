@@ -113,10 +113,8 @@ Recent GitHub Activity
 </details>
 
 
----
-
 <details>
-  <summary>:zap: 📕 Resume Git</summary>
+  <summary>:zap: 💻 Resume Git</summary>
   
 <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&hide_border=true" />
 <br>
