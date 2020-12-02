@@ -115,9 +115,10 @@ Recent GitHub Activity
 
 ---
 <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&hide_border=true" />
+<br>
 <img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
-
+---
 
 [website]: https://jonasbfranco.github.io/
 [course]: http://vsCodeHero.com
