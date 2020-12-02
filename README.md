@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonasbfranco?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonasbfranco&screen_name=jonasbfranco)
 
 
+
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -12,9 +13,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem.jonasbfranco.vercel.app/api/spotify" alt="Jonas B. Franco Spotify Playing" width="350" />](https://open.spotify.com/user/mwatfriulakxabpbzy7k7xu8l)
+
 
 
 ### Connect with me:
@@ -25,7 +29,11 @@
 [<img align="left" alt="jonasbfranco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jonasbfranco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+
 <br />
+
+
 
 ### Languages and Tools:
 
@@ -66,7 +74,10 @@
 <br />
 <br />
 
+
 ---
+
+
 
 ### 📺 Latest YouTube Videos
 
@@ -80,7 +91,9 @@
 
 ➡️ [more videos...](https://www.youtube.com/c/JonasFranco)
 
+
 ---
+
 
 
 ### 󠁧󠁢󠁳󠁣󠁴󠁿:octocat: Recent GitHub Activity
@@ -94,20 +107,26 @@
 <!--END_SECTION:activity-->
 
 
+
 <br>
+
+
 
 
 ### 💻 Resume Git
 
 <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&hide_border=true" />
-<br>
+<br><br><br>
 <img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
 
 
 <br><br><br><br><br><br><br>
 
+
 ---
+
+
 
 <details>
   <summary>:zap: 📕 Latest Blog Posts</summary>
@@ -123,6 +142,7 @@
 ➡️ [more blog posts...](https://codestackr.com)
 
 </details>
+
 
 
 
