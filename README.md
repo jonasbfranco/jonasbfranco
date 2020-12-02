@@ -14,13 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mwatfriulakxabpbzy7k7xu8l)
-
-
-
-[![Spotify](https://novatorem.jonasbfranco.vercel.app/api/spotify)](https://open.spotify.com/user/mwatfriulakxabpbzy7k7xu8l)
-
-
+[<img src="https://novatorem.jonasbfranco.vercel.app/api/spotify" alt="Jonas B. Franco Spotify Playing" width="350" />](https://open.spotify.com/user/mwatfriulakxabpbzy7k7xu8l)
 
 
 ### Connect with me:
