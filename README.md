@@ -83,7 +83,7 @@
 ---
 
 
-Recent GitHub Activity
+### 󠁧󠁢󠁳󠁣󠁴󠁿:octocat: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
@@ -95,7 +95,18 @@ Recent GitHub Activity
 
 
 <br>
-  
+
+
+### 💻 Resume Git
+
+<img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
+
+
+
+<br>
+
 
 <details>
   <summary>:zap: 📕 Latest Blog Posts</summary>
@@ -113,11 +124,6 @@ Recent GitHub Activity
 </details>
 
 
-### 💻 Resume Git
-
-<img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&hide_border=true" />
-
-<img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
 
 [website]: https://jonasbfranco.github.io/
