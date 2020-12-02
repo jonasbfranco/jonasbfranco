@@ -103,7 +103,7 @@
 [twitter]: https://twitter.com/jonasbfranco
 [youtube]: https://youtube.com/c/JonasFranco
 [instagram]: https://instagram.com/jonasbfranco
-[linkedin]: https://linkedin.com/in/jonasbfranco
+[linkedin]: https://www.linkedin.com/in/jonasbfranco
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
