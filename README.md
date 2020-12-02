@@ -120,6 +120,7 @@
 
 <details>
   <summary>:zap: GitHub Most Userd Languages</summary>
+  
   <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
 
