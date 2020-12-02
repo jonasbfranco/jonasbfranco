@@ -1,7 +1,6 @@
 ### Hi there, I'm Jonas - [JonasFranco][website] 👋
 
 [![Website](https://img.shields.io/website?label=jonasbfranco.github.io&style=for-the-badge&url=https%3A%2F%2Fjonasbfranco.github.io)](https://jonasbfranco.github.io/)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonasbfranco?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonasbfranco&screen_name=jonasbfranco)
 
 
