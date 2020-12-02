@@ -111,6 +111,8 @@
 
 </details>
 
+<br>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -120,6 +122,7 @@
 
 </details>
 
+<br>
 
 <details>
   <summary>:zap: GitHub Most Userd Languages</summary>
@@ -128,6 +131,8 @@
 
 
 </details>
+
+<br>
 
 [website]: https://jonasbfranco.github.io/
 [course]: http://vsCodeHero.com
