@@ -96,17 +96,17 @@
 
 ---
 
+
 <br>
 
-<details>
-  <summary>:zap: GitHub Most Userd Languages</summary>
+### Jonas B. Franco's Most Used Languages
+<img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
-  <img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
 
-</details>
+<br>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+### Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
@@ -116,14 +116,20 @@
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
+
+
+<details>
+  <summary>:zap: GitHub Most Userd Languages</summary>
+
+  <img align="left" alt="Jonas B. Franco's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbfranco&layout=compact&theme=gotham" />
+
 </details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-  <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&theme=gotham" />
+  <img align="left" alt="Jonas B. Franco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jonasbfranco&show_icons=true&hide_border=true" />
 
 </details>
 
