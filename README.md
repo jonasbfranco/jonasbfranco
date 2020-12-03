@@ -4,7 +4,6 @@
 
 ### Hi there, I'm Jonas - [JonasFranco][website] 👋
 
-<br>
 
 ### My Curriculum
 
