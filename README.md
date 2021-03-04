@@ -105,7 +105,7 @@
 ### 󠁧󠁢󠁳󠁣󠁴󠁿:octocat: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jonasbfranco/jonasbfranco/issues/1) in [jonasbfranco/jonasbfranco](https://github.com/jonasbfranco/jonasbfranco)
+1. 🗣 Commented on [#13](https://github.com/gigitux/youpforwhatsapp/issues/13) in [gigitux/youpforwhatsapp](https://github.com/gigitux/youpforwhatsapp)
 <!--END_SECTION:activity-->
 
 <br>
