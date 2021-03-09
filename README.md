@@ -88,11 +88,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🐧 - Customizando Linux Ubuntu com Gnome Extensions](https://www.youtube.com/watch?v=fRcLgiT7FF8)
 - [Instalar NodeJs Ubuntu e derivados](https://www.youtube.com/watch?v=yTsKtaS8dOs)
 - [🐧 - Vídeo 2 - Instalar aplicativos Linux Ubuntu via loja, snap, flatpak, appimage, terminal e gdebi](https://www.youtube.com/watch?v=_BfQ75FMARg)
 - [🐧 - Vídeo 1 - Instalar e deixar Linux Ubuntu pronto para o uso](https://www.youtube.com/watch?v=q0pWR02lLZc)
 - [🕹 - Street Fighter V no Linux via Steam Proton 5.0-7](https://www.youtube.com/watch?v=m1dUtPXA3_c)
-- [🐧 - Terminal Linux - Instalar ZSH + Oh My ZSH com tema spaceship](https://www.youtube.com/watch?v=oZE1dyDjH5w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/JonasFranco)
