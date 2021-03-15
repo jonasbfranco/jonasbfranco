@@ -105,7 +105,7 @@
 ### 󠁧󠁢󠁳󠁣󠁴󠁿:octocat: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/gigitux/youpforwhatsapp/issues/13) in [gigitux/youpforwhatsapp](https://github.com/gigitux/youpforwhatsapp)
+1. 💪 Opened PR [#280](https://github.com/aristocratos/bpytop/pull/280) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
 <!--END_SECTION:activity-->
 
 <br>
