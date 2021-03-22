@@ -88,11 +88,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🖥 - My day coding (javascript & linux & vscode) and my son helping me, kkkk](https://www.youtube.com/watch?v=eQsM3fBaiV4)
 - [Download - Liga da Justiça de Zack Snyder](https://www.youtube.com/watch?v=cIvYXPJN9c0)
 - [🐧 - Customizando Linux Ubuntu com Gnome Look](https://www.youtube.com/watch?v=m9-pWPXjhYY)
 - [🐧 - Customizando Linux Ubuntu com Gnome Extensions](https://www.youtube.com/watch?v=fRcLgiT7FF8)
 - [Instalar NodeJs Ubuntu e derivados](https://www.youtube.com/watch?v=yTsKtaS8dOs)
-- [🐧 - Vídeo 2 - Instalar aplicativos Linux Ubuntu via loja, snap, flatpak, appimage, terminal e gdebi](https://www.youtube.com/watch?v=_BfQ75FMARg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/JonasFranco)
