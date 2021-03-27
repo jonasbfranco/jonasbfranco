@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/vJQ7p5c/tea-S.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Coffee">
+
 [![Website](https://img.shields.io/website?label=jonasbfranco.github.io&style=for-the-badge&url=https%3A%2F%2Fjonasbfranco.github.io)](https://jonasbfranco.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonasbfranco?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonasbfranco&screen_name=jonasbfranco)
 
@@ -13,18 +15,11 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Tecnoob - Maratona - Linux Forever #1][course]!
+- 🔭 I just launched my first course: [Linux Noob - Maratona - Linux Forever #1][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, ride a motorcycle and play video games
-
-
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem.jonasbfranco.vercel.app/api/spotify" alt="Jonas B. Franco Spotify Playing" width="350" />](https://open.spotify.com/user/mwatfriulakxabpbzy7k7xu8l)
-
 
 
 ### Connect with me:
@@ -80,6 +75,24 @@
 <br />
 <br />
 
+## 🚀 Minhas Skills
+ <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+ <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+ <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+ <img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js"/>
+ <img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+ <img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+ <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react js"/>
+ <img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"/>
+ <img height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+ <img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+ <img height="30" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui"/>
+ <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+ <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+ <img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></code>
+
+<br />
+<br />
 
 ---
 
