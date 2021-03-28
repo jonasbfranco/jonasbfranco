@@ -65,23 +65,16 @@
 
 ## :email: &nbsp; Connect with me:
 
-[<img align="left" alt="jonasbfranco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
- 
-[<img height="30" align="left" alt="jonasbfranco | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-
-[<img height="30" align="left" alt="jonasbfranco | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-
-[<img height="30" align="left" alt="jonasbfranco | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img height="30" align="left" alt="jonasbfranco | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-
-[<img height="30" align="left" alt="jonasbfranco | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
+<code>[<img align="left" alt="jonasbfranco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="jonasbfranco | YouTube" />][youtube]
+[<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jonasbfranco | Twitter" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jonasbfranco | Instagram" />][instagram]
+[<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="jonasbfranco | Facebook" />][facebook]
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jonasbfranco | Linkedin" />][linkedin]
 <a href="mailto:jonasbfranco@gmail.com" alt="Gmail">
-<img height="30" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br>
+<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5517996197573" alt="WhatsApp">
-<img height="30" align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   
 
 
