@@ -104,7 +104,7 @@
 - [🐧 - Customizando Linux Ubuntu com Gnome Extensions](https://www.youtube.com/watch?v=fRcLgiT7FF8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/c/JonasFranco)
+➡️ [more videos...](https://www.youtube.com/c/NoobLinux)
 
 
 ---
