@@ -26,10 +26,9 @@
 
 [<img align="left" alt="jonasbfranco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-
 [<img align="left" alt="jonasbfranco | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
-[<img align="left" alt="jonasbfranco | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white />][twitter]
+[<img align="left" alt="jonasbfranco | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
   
 [<img align="left" alt="jonasbfranco | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
   
@@ -153,7 +152,7 @@
 [website]: https://jonasbfranco.github.io/
 [course]: https://www.youtube.com/playlist?list=PLYJaYEw1ILzRrP8zHSAER-kIS_nJGhEfu
 [twitter]: https://twitter.com/jonasbfranco
-[youtube]: https://youtube.com/c/JonasFranco
+[youtube]: https://www.youtube.com/c/NoobLinux
 [instagram]: https://instagram.com/jonasbfranco
 [facebook]: https://facebook.com/jonasbfranco
 [linkedin]: https://www.linkedin.com/in/jonasbfranco
