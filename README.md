@@ -34,8 +34,7 @@
   
 [<img align="left" alt="jonasbfranco | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
-<a href="https://www.linkedin.com/in/jonasbfranco/" alt="Linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+[<img align="left" alt="jonasbfranco | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <a href="mail:jonasbfranco@gmail.com" alt="Gmail">
 <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
