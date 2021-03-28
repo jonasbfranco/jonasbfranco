@@ -64,8 +64,9 @@
 
 
 ## :email: &nbsp; Connect with me:
-<code>
+
 [<img align="left" alt="jonasbfranco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
  
 [<img height="30" align="left" alt="jonasbfranco | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
@@ -78,9 +79,9 @@
 
 <a href="mailto:jonasbfranco@gmail.com" alt="Gmail">
 <img height="30" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<br>
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5517996197573" alt="WhatsApp">
-<img height="30" align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></code>
+<img height="30" align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   
 
 
