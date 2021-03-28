@@ -26,7 +26,8 @@
 
 [<img align="left" alt="jonasbfranco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="jonasbfranco | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="jonasbfranco | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
 [<img align="left" alt="jonasbfranco | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white />][twitter]
   
