@@ -4,13 +4,21 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonasbfranco?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonasbfranco&screen_name=jonasbfranco)
 
 
+<br />
+
+
 ### Hi there, I'm Jonas - [JonasFranco][website] 👋
 
 
-### My Curriculum
+<br />
 
+
+
+### My Curriculum
 - 📃 Click here to enter the curriculum page [Curriculum][curriculum]
 
+
+<br />
 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
@@ -22,7 +30,11 @@
 - ⚡ Fun fact: I love to read, ride a motorcycle and play video games
 
 
-### :email: &nbsp; Connect with me:
+<br />
+<br />
+
+
+## :email: &nbsp; Connect with me:
 
 [<img align="left" alt="jonasbfranco | Site Pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -44,12 +56,12 @@
   
 
 
-
+<br />
 <br />
 
+---
 
-
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linuxplaylist]
 
@@ -63,8 +75,10 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
+
 <br />
 <br />
+---
 
 ## 🚀 My Skills
  <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
@@ -82,8 +96,10 @@
  <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
  <img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></code>
 
+
 <br />
 <br />
+
 
 ---
 
