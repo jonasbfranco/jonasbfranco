@@ -15,7 +15,8 @@
 
 
 ### My Curriculum
-- 📃 Click here to enter the curriculum page [Curriculum][curriculum]
+- 📃 Click here to enter the my curriculum page [Curriculum][curriculum]
+- 📃 Click here to enter the my portifolio page [Portifolio][portifolio]
 
 
 <br />
@@ -147,6 +148,7 @@
 
 
 [curriculum]: https://github.com/jonasbfranco/curriculum/blob/master/README.md
+[portifolio]: https://portifolio-jonas.netlify.app/
 [website]: https://jonasbfranco.github.io/
 [course]: https://www.youtube.com/playlist?list=PLYJaYEw1ILzRrP8zHSAER-kIS_nJGhEfu
 [twitter]: https://twitter.com/jonasbfranco
