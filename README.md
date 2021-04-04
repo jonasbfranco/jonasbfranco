@@ -91,11 +91,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🐧 - Instalar PopcornTime no Linux (Atualizado - 2021)](https://www.youtube.com/watch?v=AbuzvSjZAdo)
 - [🐧 - Personalizar Gnome 40 - Oh My ZSH - Flatery - Dracula Theme](https://www.youtube.com/watch?v=e31HrTToqMI)
 - [🐧 - IRPF2021 - Como baixar e instlar no LINUX](https://www.youtube.com/watch?v=0XlrbTeJZRg)
 - [🖥 - My day coding (javascript & linux & vscode) and my son helping me, kkkk](https://www.youtube.com/watch?v=eQsM3fBaiV4)
 - [Download - Liga da Justiça de Zack Snyder](https://www.youtube.com/watch?v=cIvYXPJN9c0)
-- [🐧 - Customizando Linux Ubuntu com Gnome Look](https://www.youtube.com/watch?v=m9-pWPXjhYY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/NoobLinux)
