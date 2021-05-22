@@ -108,7 +108,7 @@
 ### 󠁧󠁢󠁳󠁣󠁴󠁿:octocat: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#280](https://github.com/aristocratos/bpytop/pull/280) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+1. 💪 Opened PR [#1](https://github.com/jonasbfranco/ideia-unica/pull/1) in [jonasbfranco/ideia-unica](https://github.com/jonasbfranco/ideia-unica)
 <!--END_SECTION:activity-->
 
 <br>
