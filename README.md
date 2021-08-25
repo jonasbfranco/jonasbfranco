@@ -108,7 +108,7 @@
 ### 󠁧󠁢󠁳󠁣󠁴󠁿:octocat: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jonasbfranco/ideia-unica/pull/1) in [jonasbfranco/ideia-unica](https://github.com/jonasbfranco/ideia-unica)
+1. ❗️ Opened issue [#2](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL/issues/2) in [YuryRegis/Acer-Nitro5-AN515-54-58CL](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL)
 <!--END_SECTION:activity-->
 
 <br>
