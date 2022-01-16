@@ -108,7 +108,7 @@
 ### 󠁧󠁢󠁳󠁣󠁴󠁿:octocat: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL/issues/2) in [YuryRegis/Acer-Nitro5-AN515-54-58CL](https://github.com/YuryRegis/Acer-Nitro5-AN515-54-58CL)
+1. 🎉 Merged PR [#1](https://github.com/jonasbfranco/documentacao/pull/1) in [jonasbfranco/documentacao](https://github.com/jonasbfranco/documentacao)
 <!--END_SECTION:activity-->
 
 <br>
