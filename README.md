@@ -9,14 +9,19 @@
 
 
 ### My Curriculum
+<li>
+<a href="https://github.com/jonasbfranco/curriculum/blob/master/README.md" target="_blank">📃 Click here to enter the my curriculum page</a></li>
+<li><a href="https://jonasbfranco.github.io/portfolio.html" target="_blank">📃 Click here to enter the my portfolio page</a>
+</li>
+<!-- 
 - 📃 Click here to enter the my curriculum page [Curriculum][curriculum]
 - 📃 Click here to enter the my portfolio page [Portfolio][portifolio]
-
-
+ -->
 
 ## I'm a Husband, Father, Developer, Analyst, Tech Innovation and Teacher!!
 
-- 🔭 I just launched my course: [PyFlet - Pokemon - PokeAPI com Framework Flet (Python)][course]
+<!-- - 🔭 I just launched my course: [PyFlet - Pokemon - PokeAPI com Framework Flet (Python)][course] -->
+- 🔭 I just launched my course: <a href="https://youtube.com/playlist?list=PLjEMBqp7RZOyHWcY-6DfajgqS2xdCqR74&si=0GTxi0rENbf19uOq" target="_blank">PyFlet - Pokemon - PokeAPI com Framework Flet (Python)</a>
 - 🌱 I’m currently learning everything 🤩
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 221 Goals: Contribute more to Open Source projects
@@ -92,3 +97,5 @@
 [linuxplaylist]: https://www.youtube.com/playlist?list=PLYJaYEw1ILzRJhbsV7OYOCNJd2uPD2WbB
 [ubuntuplaylist]:https://www.youtube.com/playlist?list=PLYJaYEw1ILzRrP8zHSAER-kIS_nJGhEfu
 [bashplaylist]:https://www.youtube.com/playlist?list=PLYJaYEw1ILzQhWaTWIJoIs5I0iYo6HaAR
+
+
