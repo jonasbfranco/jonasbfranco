@@ -10,17 +10,17 @@
 
 ### My Curriculum
 - 📃 Click here to enter the my curriculum page [Curriculum][curriculum]
-- 📃 Click here to enter the my portifolio page [Portifolio][portifolio]
+- 📃 Click here to enter the my portfolio page [Portfolio][portifolio]
 
 
 
 ## I'm a Husband, Father, Developer, Analyst, Tech Innovation and Teacher!!
 
-- 🔭 I just launched my course: [Linux Noob - Maratona - Linux Forever #1][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I just launched my course: [PyFlet - Pokemon - PokeAPI com Framework Flet (Python)][course]
+- 🌱 I’m currently learning everything 🤩
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read, ride a motorcycle and play video games
+- 🥅 221 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love to read, ride a motorcycle and play video games
 
 
 
