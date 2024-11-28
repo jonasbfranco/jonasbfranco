@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/vJQ7p5c/tea-S.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Coffee">
 
-[![Website](https://img.shields.io/website?label=jonasbfranco.github.io&style=for-the-badge&url=https%3A%2F%2Fjonasbfranco.github.io)](https://jonasbfranco.github.io/)
+[![Website](https://img.shields.io/website?label=jonasbfranco.github.io&style=for-the-badge&url=https%3A%2F%2Fjonasbfranco.github.io)](https://jonasbfranco.github.io/){:target="_blank"}
 
 
 
@@ -9,14 +9,14 @@
 
 
 ### My Curriculum
-- 📃 Click here to enter the my curriculum page [Curriculum][curriculum]
-- 📃 Click here to enter the my portfolio page [Portfolio][portifolio]
+- 📃 Click here to enter the my curriculum page [Curriculum][curriculum]{:target="_blank"}
+- 📃 Click here to enter the my portfolio page [Portfolio][portifolio]{:target="_blank"}
 
 
 
 ## I'm a Husband, Father, Developer, Analyst, Tech Innovation and Teacher!!
 
-- 🔭 I just launched my course: [PyFlet - Pokemon - PokeAPI com Framework Flet (Python)][course]
+- 🔭 I just launched my course: [PyFlet - Pokemon - PokeAPI com Framework Flet (Python)][course]{:target="_blank"}
 - 🌱 I’m currently learning everything 🤩
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 221 Goals: Contribute more to Open Source projects
