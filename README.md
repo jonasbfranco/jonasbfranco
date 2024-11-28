@@ -76,8 +76,8 @@
 
 
 
-[curriculum]: https://github.com/jonasbfranco/curriculum/blob/master/README.md/?target=_blank
-[portifolio]: https://portifolio-jonas.netlify.app/?target=_blank
+[curriculum]: https://github.com/jonasbfranco/curriculum/blob/master/README.md
+[portifolio]: https://portifolio-jonas.netlify.app
 [website]: https://jonasbfranco.github.io/
 [course]: https://youtube.com/playlist?list=PLjEMBqp7RZOyHWcY-6DfajgqS2xdCqR74&si=0GTxi0rENbf19uOq
 [twitter]: https://twitter.com/jonasbfranco
