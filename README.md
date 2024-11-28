@@ -9,7 +9,7 @@
 
 
 ### My Curriculum
-- 📃 Click here to enter the my curriculum page [Curriculum][curriculum]{:target="_blank"}
+- 📃 Click here to enter the my curriculum page [Curriculum][curriculum]
 - 📃 Click here to enter the my portfolio page [Portfolio][portifolio]
 
 
