@@ -5,7 +5,7 @@
 
 
 ### Hi there, I'm Jonas - [JonasFranco][website] 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasbfranco&color=blueviolet" alt="Profile views" /> </p>
 
 
 ### My Curriculum
