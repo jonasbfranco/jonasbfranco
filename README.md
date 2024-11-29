@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/vJQ7p5c/tea-S.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Coffee">
+<img src="./.github/tea-S.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Coffee">
 
 [![Website](https://img.shields.io/website?label=jonasbfranco.github.io&style=for-the-badge&url=https%3A%2F%2Fjonasbfranco.github.io)](https://jonasbfranco.github.io/)
 
